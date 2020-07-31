@@ -12,10 +12,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 import com.bean.Person;
 
-/**
- * @author 502617154
- *
- */
+
 public class FamilyTreeMenu {
     
     private final static Scanner scanner = new Scanner(System.in);
